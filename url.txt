@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/u715577133/LinuxSoft/master/libiconv-1.15.tar.gz
+https://raw.githubusercontent.com/u715577133/LinuxSoft/master/libmcrypt-2.5.7.tar.gz
+https://raw.githubusercontent.com/u715577133/LinuxSoft/master/mcrypt-2.6.8.tar.gz
+https://raw.githubusercontent.com/u715577133/LinuxSoft/master/mhash-0.9.9.9.tar.gz
+https://raw.githubusercontent.com/u715577133/LinuxSoft/master/nginx-1.10.3.tar.gz
+https://raw.githubusercontent.com/u715577133/LinuxSoft/master/php-5.6.30.tar.gz
